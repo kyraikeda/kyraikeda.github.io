@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Design Flyer
-permalink: projects/micromouse
+permalink: projects/designflyer
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
