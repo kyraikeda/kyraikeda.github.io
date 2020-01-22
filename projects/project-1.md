@@ -5,7 +5,7 @@ image: images/micromouse.jpg
 title: ART 115D Flyer
 permalink: projects/designflyer
 # All dates must be YYYY-MM-DD format!
-date: 2018-04-015
+date: 2018-04-15
 labels:
   - Art
   - Design
