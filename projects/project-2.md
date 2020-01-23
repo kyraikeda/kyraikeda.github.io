@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Magazine Cover.jpg
+image: images/Magazine Cover .jpg
 title: Bloom
 permalink: projects/bloom
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: A magazine cover for an imaginary magazine 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/Magazine Cover.jpg">
+<img class="ui medium right floated rounded image" src="../images/Magazine Cover .jpg">
 
 <h2>Description:</h2>
 This project asked to craft a magazine cover about a theme or subject of my choosing. To successfully complete the project, I had to create a magazine cover that used all or most of these features: masthead, dateline, main image, model credit, cover lines, main cover line, left third, bar code, and selling line. I also had to keep in mind the CRAP principles and other theories and elements of design to ensure that my magazine cover looked professional and well-made. 
