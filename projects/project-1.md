@@ -9,6 +9,7 @@ date: 2018-04-15
 labels:
   - Art
   - Design
+  - Graphics
 summary: A class flyer that I made for an ART 115D class at Leeward Community College.
 ---
 
