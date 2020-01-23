@@ -13,7 +13,6 @@ labels:
 summary: A short stop motion film made in a high school art class.
 ---
 
-
 <div class="ui large rounded images">
   <img class="ui image" src="../images/Butterfly.jpg">
 </div>
