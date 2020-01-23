@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/Butterfly.jpg
-title: Stop Motion: Butterfly
-permalink: projects/butterfly
+image: images/Magazine Cover .jpg
+title: Bloom
+permalink: projects/bloom
 # All dates must be YYYY-MM-DD format!
-date: 2015-05-28
+date: 2018-04-09
 labels:
-  - Stop Motion
-  - Animation
+  - Photoshop
   - Art
-summary: A short stop motion film made in a high school art class.
+  - Design
+summary: A magazine cover for an imaginary magazine 
 ---
 
