@@ -26,6 +26,5 @@ For this project, I used Adobe Photoshop to make everything from the cardboard b
 <h2>The End</h2>
 Learning the C.R.A.P. principles helped to define what it is about a design or art piece that makes it visually appealing. In my case, I used colors white and navy blue to contrast with each other and emphasized "Digital Design" by making it huge and underlining it.
 Although I took this class about two years ago, the concepts learned are still present in my life, especially now taking software engineering. 
-
-
+</div>
 If you would like to know more about C.R.A.P., you can click <a href="https://saylordotorg.github.io/text_business-information-systems-design-an-app-for-that/s07-01-c-r-a-p-principles-of-graphic-.html">here</a>.
