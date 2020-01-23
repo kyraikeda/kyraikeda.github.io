@@ -15,9 +15,6 @@ summary: A short stop motion film made to illustrate the life of a butterfly.
 
 <img class="ui medium right floated rounded image" src="../images/Butterfly.jpg">
 
-
-(1) what the project was about; (2) what your role was and how much of the work you were responsible for; and (3) what did you learn from the experience?
-
 <h2>What Is It?</h2>
 This project was a high school art class project aimed at making students familiar with the process of traditional stop motion making. The stop motion could be on any topic of interest and had to be at least ten seconds long. We were given about a week to finish the film, and we had to work alone.
 
