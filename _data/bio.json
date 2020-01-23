@@ -72,10 +72,20 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-01-13",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Leeward Community College",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2017-08-20",
+      "endDate": "2019-12-19",
       "gpa": "",
       "courses": [
       ]
@@ -136,10 +146,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Leeward CC Chancellor's High School Scholarship",
+      "date": "2017",
+      "awarder": "Leeward Community College",
+      "summary": "Scholarships awarded to incoming freshmen with a minimum overall GPA of 3.5 at a Hawai'i high school."
     },
     {
       "title": "First place",
