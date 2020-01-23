@@ -19,6 +19,3 @@ summary: A short stop motion film made in a high school art class.
 I remember this being a tedious process of drawing frame by frame and having to take photos of each drawing. 
 
 
-The Animation
-<div class="ui embed" data-source="youtube" data-id="LISlMO8H7YI">
-</div>
