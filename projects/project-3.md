@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/Magazine Cover .jpg
-title: Bloom
+image: images/Butterfly.jpg
+title: Stop Motion: Butterfly
 permalink: projects/bloom
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-09
