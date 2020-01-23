@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/ART115D Flyer.jpg
 title: ART 115D Flyer
 permalink: projects/designflyer
 # All dates must be YYYY-MM-DD format!
