@@ -24,5 +24,3 @@ I remember this being a tedious process of drawing frame by frame and having to 
 
 
 The Animation
-<div class="ui embed" data-source="youtube" data-id="LISlMO8H7YI">
-</div>
