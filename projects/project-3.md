@@ -14,6 +14,9 @@ summary: A short stop motion film made in a high school art class.
 ---
 <img class="ui image" src="../images/Butterfly.jpg" />
 
+(1) what the project was about; (2) what your role was and how much of the work you were responsible for; and (3) what did you learn from the experience?
+
+I remember this being a tedious process of drawing frame by frame and having to take photos of each drawing. 
 
 
 The Animation
