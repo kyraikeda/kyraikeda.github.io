@@ -10,7 +10,7 @@ labels:
   - Photoshop
   - Art
   - Design
-summary: A magazine cover for an imaginary magazine 
+summary: A magazine cover designed to imitate a trendy gardening magazine.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/Magazine Cover .jpg">
