@@ -28,5 +28,6 @@ I worked alone for the whole project and decided on the storyboard myself. The d
 From this project, I really learned patience. One could say the process was very painful especially when you are new to animating and don't have much patience to begin with. It was just tedious to keep  This project also taught me about gratification. The moment that I pieced together all of the pictures, I felt a huge sigh of relief as I thought, "Wow this actually looks decent!" In a group setting, the things I learned from this project will help me. 
 
 
+<h3>Watch the stop motion below!</h3>
 <div class="ui embed" data-source="youtube" data-id="LISlMO8H7YI">
 </div>
