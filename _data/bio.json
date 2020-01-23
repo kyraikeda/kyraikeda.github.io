@@ -52,9 +52,6 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -62,10 +59,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Git/GitHub"
       ]
     }
   ],
@@ -86,61 +81,59 @@
       "studyType": "A.A.",
       "startDate": "2017-08-20",
       "endDate": "2019-12-19",
-      "gpa": "",
+      "gpa": "4.0",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Sikdorak III",
+      "position": "Server",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-05-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Serve customers and handle food",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Take customers orders",
+        "Serve food"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Leeward CC ICS Tutor",
+      "position": "Tutor",
+      "website": "",
+      "startDate": "2019-10-01",
+      "endDate": "2019-12-01",
+      "summary": "Assist students with ICS classes:",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "ICS 111",
+        "ICS 211"
+      ]
+    },
+    {
+      "company": "Kumon Pearl City",
+      "position": "Assistant Tutor",
+      "website": "",
+      "startDate": "2017-08-01",
+      "endDate": "2018-12-01",
+      "summary": "Work with children ranging from pre-K to high school on reading and math subjects",
+      "highlights": [
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "AccesSurf",
+      "website": "https://www.accessurf.org/",
+      "position": "Water Safety Help",
+      "startDate": "2018-11-18",
+      "endDate": "2019-05-20",
+      "summary": "Assisted with making sure participants are safe in the water",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Carried participants back in from the shore,
+        "Swim with the children"
       ]
     }
   ],
@@ -150,12 +143,6 @@
       "date": "2017",
       "awarder": "Leeward Community College",
       "summary": "Scholarships awarded to incoming freshmen with a minimum overall GPA of 3.5 at a Hawai'i high school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
