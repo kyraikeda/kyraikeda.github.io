@@ -19,14 +19,13 @@ summary: A short stop motion film made to illustrate the life of a butterfly.
 (1) what the project was about; (2) what your role was and how much of the work you were responsible for; and (3) what did you learn from the experience?
 
 <h2>What Is It?</h2>
-This project was a high school art class project aimed at making students familiar with the process of traditional stop motion making. The stop motion could be on any topic of interest, and we had to work alone. 
+This project was a high school art class project aimed at making students familiar with the process of traditional stop motion making. The stop motion could be on any topic of interest and had to be at least ten seconds long. We were given about a week to finish the film, and we had to work alone.
 
 <h2>How Did I Do It?</h2>
-I worked alone for the whole project and decided on the storyboard myself. The drawings alone took days because it had to be drawn frame by frame or else it would look choppy. I remember using at least 100 square sheets of paper to make the stop motion 25 seconds long. Taking pictures of the drawings took hours as well because of the amount of papers I had.
+Since I worked alone for the whole project and decided on the storyboard myself. The drawings alone took days because it had to be drawn frame by frame or else it would look choppy. I remember using at least 100 square sheets of paper to make the stop motion 25 seconds long. Taking pictures of the drawings took hours as well because of the amount of papers I had.
 
 <h2>What Did I Learn?</h2>
-From this project, I really learned patience. One could say the process was very painful especially when you are new to animating and don't have much patience to begin with. It was just tedious to keep  This project also taught me about gratification. The moment that I pieced together all of the pictures, I felt a huge sigh of relief as I thought, "Wow this actually looks decent!" In a group setting, the things I learned from this project will help me. 
-
+Working on this project taught me skills that can apply to working in a group setting. First, I really learned patience. One could say the process was very painful especially when you are new to animating and don't have much patience to begin with. It was just tedious to draw almost the same things repeatedly. This project also taught me about gratification. The moment that I pieced together all of the pictures, I felt a huge sigh of relief as I thought, "Wow this actually looks decent!" I also learned to take big projects and spread them out over days or weeks. Given the deadline for this project, if I didn't work on it over the course of days, it would cause a lot of unnecessary stress for me.
 
 <h3>Watch the stop motion below!</h3>
 <div class="ui embed" data-source="youtube" data-id="LISlMO8H7YI">
