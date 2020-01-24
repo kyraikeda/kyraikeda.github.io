@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Butterfly.jpg
+image: images/stopmotion.jpg
 title: "Stop Motion: Butterfly"
 permalink: projects/butterfly
 # All dates must be YYYY-MM-DD format!
