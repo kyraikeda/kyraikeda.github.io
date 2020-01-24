@@ -13,7 +13,7 @@ labels:
 <h2>Starting Over</h2>
 Frankly, I was a little intimidated yet excited knowing that I would learn yet another language: Javascript. It’s intimidating in the sense that I would have to remember its unique syntax and keywords in addition to others. It’s also exciting that I’m adding another language to my arsenal, which is always a useful thing. After completing the FreeCodeCamp modules, I realized that Javascript wasn’t too hard to learn. Because I already know Java, C, and C++, the general formatting was similar enough.
 
-<img class="ui medium image" src="../images/freecodecamp.png">
+<img class="ui large image" src="../images/freecodecamp.png">
 
 <h2>The Good and the Bad</h2>
 I think Javascript can be both a good and a bad programming language depending on the use for it. Because Javascript is so flexible, I think that makes it a good language for software engineering.  I actually found it convenient that one doesn’t need to state the type when declaring a variable. The only bad thing that I could think of is how that flexibility could be confusing.
