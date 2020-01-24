@@ -13,7 +13,7 @@ labels:
 summary: A flyer that I made for an ART 115D class at Leeward Community College.
 ---
 
-<img class="ui medium left floated rounded image" src="../images/ART115D Flyer.jpg">
+<img class="ui medium right floated rounded image" src="../images/ART115D Flyer.jpg">
 
 <h2>The Purpose</h2>
 This project was an assignment for ART 115D at Leeward Community College. The objective was to design a flyer to advertise for next semester's class using concepts learned already and focusing on the C.R.A.P. principles. For those unfamiliar with design, this acronym stands for Contrast, Repetition, Alignment, and Proximity. It is widely used by graphic and visual designers for websites.
