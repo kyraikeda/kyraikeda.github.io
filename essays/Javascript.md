@@ -18,7 +18,6 @@ Frankly, I was a little intimidated yet excited knowing that I would learn yet a
 ## The Good and the Bad
 I think Javascript can be both a good and a bad programming language depending on the use for it. Because Javascript is so flexible, I think that makes it a good language for software engineering.  I actually found it convenient that one doesn’t need to state the type when declaring a variable. The only bad thing that I could think of is how that flexibility could be confusing.
 
-## Athletic What? <img class="ui right small image" src="../images/stopwatch.png">
+## Athletic What? 
 Athletic software engineering seems to be useful for anyone since the constant practice helps to solidify knowledge. The practice WODs are useful for getting accustomed to the actual in-class ones. This style of learning is very different from what I’m used to. Being the perfectionist that I am, my anxiety skyrockets knowing that I must successfully code a solution within a given time. In the long run, I think doing the WODs will be beneficial. Learning to code under both time limit and stress is a skill that I must practice in order to be a good candidate for companies.
-
-
+<img class="ui right small image" src="../images/stopwatch.png">
