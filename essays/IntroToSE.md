@@ -13,7 +13,7 @@ labels:
 
 ## Add That to the List
 Finding a major in college is difficult when you are indecisive and have too many interests. From medicine to design to film, I could never decide what direction I wanted to go. In the back of my mind, I always thought, “Maybe I’ll be decent at coding.” I decided to pursue this thought by taking ICS 111, the introduction to Java class. I ended up enjoying the process of writing code from scratch to solve a problem. It was both frustrating and satisfying; the combination of these emotions was addicting to say the least. Thus, programming was scribbled onto my list of passions.
-<img class="ui small right floated image" src="../images/robot.gif">
+<img class="ui medium right floated image" src="../images/robot.gif">
 
 ## The Best of Both Worlds
 I never consciously thought about the relationship between technology and art. Through software engineering, I realized that I could connect the two. Because of my background in art, I appreciate the front-end development more and possibly would like to pursue that side of software engineering. 
