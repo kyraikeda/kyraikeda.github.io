@@ -21,4 +21,4 @@ I think Javascript can be both a good and a bad programming language depending o
 <h2>Athletic What?</h2>
 Athletic software engineering seems to be useful for anyone since the constant practice helps to solidify knowledge. The practice WODs are useful for getting accustomed to the actual in-class ones. This style of learning is very different from what I’m used to. Being the perfectionist that I am, my anxiety skyrockets knowing that I must successfully code a solution within a given time. In the long run, I think doing the WODs will be beneficial. Learning to code under both time limit and stress is a skill that I must practice in order to be a good candidate for companies.
 
-<img class="ui medium right image" src="../images/stopwatch.png">
+<img class="ui left small image" src="../images/stopwatch.png">
