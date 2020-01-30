@@ -1,5 +1,5 @@
 ---
-layout: essay
+layout: essay 
 type: essay
 title: Don't Be That Person
 # All dates must be YYYY-MM-DD format!
@@ -9,3 +9,5 @@ labels:
   - Help
   - Questions
 ---
+
+[question](https://stackoverflow.com/questions/37913482/whats-that-mean-each-code)
