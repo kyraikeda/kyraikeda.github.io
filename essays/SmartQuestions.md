@@ -25,7 +25,7 @@ Maybe not stupid, but there are definitely lazy questions. It’s quite clear wh
 So, what’s not smart about [this](https://stackoverflow.com/questions/59992090/count-how-many-numbers-appered-and-count-price
 ) question?
 
-Just glancing at the post, there are a few spelling and grammar errors. Immediately in the title and first line of the post, there are words spelled incorrectly like “appered” and “basicly”. This is off-putting for anyone who sees the post because it looks like the user didn’t bother to double check and isn’t detail-oriented. In addition, the user didn’t upload any attempted code. A user comments below asking, “And what have you tried so far?” because in order to help, it’s important to know what the inquirer has tried first to use that as a starting point for the answer. 
+Just glancing at the post, there are a few spelling and grammar errors, which I highlighted in pink. Immediately in the title and first line of the post, there are words spelled incorrectly like “appered” and “basicly”. This is off-putting for anyone who sees the post because it looks like the user didn’t bother to double check and isn’t detail-oriented. In addition, the user didn’t upload any attempted code. A user comments below asking, “And what have you tried so far?” because in order to help, it’s important to know what the inquirer has tried first to use that as a starting point for the answer. 
 <div class="ui fluid images" align="center" size="medium">
   <img class="ui image" src="../images/badComment.jpg">
 </div>
