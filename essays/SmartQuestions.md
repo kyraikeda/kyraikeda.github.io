@@ -18,7 +18,7 @@ Maybe not stupid, but there are definitely lazy questions. It’s quite clear wh
 
 ## Can’t Mistake Laziness
 
-<div class="ui fluid images" align="center" size="medium">
+<div class="ui fluid images" align="center" size="small">
   <img class="ui image" src="../images/badHighlight.jpg">
 </div>
 
