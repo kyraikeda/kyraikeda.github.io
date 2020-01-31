@@ -1,7 +1,7 @@
 ---
 layout: essay 
 type: essay
-title: Don't Be That Person
+title: Any Questions?
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-29
 labels:
