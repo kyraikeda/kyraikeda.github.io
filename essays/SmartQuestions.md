@@ -29,6 +29,11 @@ Just glancing at the post, there are a few spelling and grammar errors. Immediat
 
 
 ## The Good in a Sea of Bad
+
+<div class="ui fluid images" align="center">
+  <img class="ui image" src="../images/goodQ.jpg">
+</div>
+
 And what makes [this](https://stackoverflow.com/questions/15285643/how-to-get-a-50-50-chance-in-random-generator
 ) question better than the previous?
 
