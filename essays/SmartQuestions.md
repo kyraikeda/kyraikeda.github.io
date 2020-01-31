@@ -13,7 +13,7 @@ labels:
 ## Think Before You Post
 *“There’s no such thing as stupid questions.”*
 
-Maybe not stupid, but there are definitely lazy questions. It’s quite clear when someone poses a question without trying to think about an answer first. This brings us to the discussion of the opposite- what is a “smart question”? For the case of software engineering, it’s one that comes prepared by either inserting code or adding pictures to further illustrate the problem at hand. A “smart question” also clearly states the problem and formats it to make it easy to read. It’s important to ask smart questions because those will be worth the time it takes to develop and answer them. Alright, let’s look at an example of a smart question and not-so-smart one from Stack Overflow.
+Maybe not stupid, but there are definitely lazy questions. It’s quite clear when someone poses a question without trying to think about an answer first. This brings us to the discussion of the opposite- what is a “smart question”? For the purpose of software engineering, it’s one that comes prepared by either inserting code or adding pictures to further illustrate the problem at hand. A “smart question” also clearly states the problem and formats it to make it easy to read. It’s important to ask smart questions because those will be worth the time it takes to develop and answer them. Alright, let’s look at an example of a smart question and not-so-smart one from Stack Overflow.
 
 
 ## Can’t Mistake Laziness
