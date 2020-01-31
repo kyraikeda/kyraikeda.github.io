@@ -36,7 +36,7 @@ The asker ends the post with, “I just need this part of the code where I count
 ## The Good in a Sea of Bad
 
 <div class="ui fluid images" align="center">
-  <img class="ui image" src="../images/goodQues.jpg">
+  <img class="ui image" src="../images/goodQ.jpg">
 </div>
 
 And what makes [this](https://stackoverflow.com/questions/15285643/how-to-get-a-50-50-chance-in-random-generator
