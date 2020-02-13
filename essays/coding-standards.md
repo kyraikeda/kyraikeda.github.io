@@ -13,6 +13,7 @@ labels:
 <div class="ui fluid images" align="center">
   <img class="ui image" src="../images/dog.jpg">
 </div>
+
 ## Who Cares About Coding Standards?
 
 From the first moments of starting my career into programming, I've been told to adhere to certain syntaxes and coding formats. At first, I thought nothing about it since I was just following what I was taught. However, as I continued into courses with students of different programming backgrounds, I realized how important coding standards are for quality assurance. If everyone wrote code differently, how would anyone be able to understand how the code runs? Imagine if everyone knew the English alphabet and the all of the same words, but constructed sentences by replacing the verbs with nouns or speaking backward sentences. It'd be hard to understand, right? Coding standards are like grammar rules. Although hard to initially learn and understand, once everything connects beautiful sentences can be constructed.
