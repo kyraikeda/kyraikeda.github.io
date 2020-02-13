@@ -1,13 +1,13 @@
 ---
 layout: essay 
 type: essay
-title: Standards are Key
+title: Standards Are Key
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-12
 labels:
-  - Stack Overflow
-  - Help
-  - Questions
+  - IntelliJ
+  - ESLint
+  - Coding Standards
 ---
 
 ## Who Cares About Coding Standards?
@@ -23,4 +23,4 @@ From my experience of writing code, it hasn't been too hard following the syntax
 
 Having a coding standard to follow can seem like a trivial thing when it comes to little things such as spaces or just forgetting a semi-colon, but if you have thousands of lines of code with no way of knowing where the error is, how are you going to figure out where to begin to look? That's where the tools come into play to help pin-point where exactly things go wrong. There can be indicators telling you where it's wrong and *why* it's wrong. This not only benefits you, but anyone else who has to read your code since they can understand the same coding style.
 
-Let's not code using hieroglyphics when we need to use English. Follow standards.
+Let's not code using hieroglyphics when we need to use English. Follow standards!
