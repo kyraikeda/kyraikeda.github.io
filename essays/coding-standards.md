@@ -10,11 +10,13 @@ labels:
   - Coding Standards
 ---
 
+<div class="ui fluid images" align="center">
+  <img class="ui image" src="../images/freecodecamp.png">
+</div>
 ## Who Cares About Coding Standards?
 
 From the first moments of starting my career into programming, I've been told to adhere to certain syntaxes and coding formats. At first, I thought nothing about it since I was just following what I was taught. However, as I continued into courses with students of different programming backgrounds, I realized how important coding standards are for quality assurance. If everyone wrote code differently, how would anyone be able to understand how the code runs? Imagine if everyone knew the English alphabet and the all of the same words, but constructed sentences by replacing the verbs with nouns or speaking backward sentences. It'd be hard to understand, right? Coding standards are like grammar rules. Although hard to initially learn and understand, once everything connects beautiful sentences can be constructed.
 
-<img class="ui small right floated rounded image" src="../images/eslint.png">
 There are certain rules and exceptions to follow when writing code, and it takes practice and time to learn. With learning a language and its grammar rules, there are tools to help. For example, in Microsoft Word, there are different color underlines when there are certain grammar mistakes; there are similar tools with programming. One such tool would be ESLint. When used in the environment of IntelliJ, there's a little indicator at the top right that signifies whether a code passes or fails proper syntax. If a code passes, there's a green check mark and if a code fails, there's a red circle with an exclamation point. Along with that, similar to how word has the underlines indicating what's wrong, ESLint has also something similar. It points out if there are indentation errors or useless methods. Essentially, it helps correct and concise code to be as efficient as possible. 
  
 ## How Have I Managed?
