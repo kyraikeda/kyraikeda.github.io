@@ -11,7 +11,7 @@ labels:
 ---
 
 
-<img class="ui small center floated image" src="../images/sniffDog.png">
+<img class="ui medium center image" src="../images/sniffDog.png">
 
 ## Who Cares About Coding Standards?
 
