@@ -1,13 +1,13 @@
 ---
-layout: essay
+layout: essay 
 type: essay
 title: Coding Standards
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-12
 labels:
-  - JavaScript
-  - Programming
-  - Coding Standards
+  - Stack Overflow
+  - Help
+  - Questions
 ---
 
 <img class="ui small right floated rounded image" src="../images/greencheck.png">
