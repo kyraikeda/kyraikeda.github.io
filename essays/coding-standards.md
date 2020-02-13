@@ -1,7 +1,7 @@
 ---
 layout: essay 
 type: essay
-title: Standards Are Key
+title: Standards? Can't Live Without Them
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-12
 labels:
