@@ -10,9 +10,8 @@ labels:
   - Coding Standards
 ---
 
-<div class="ui fluid images" align="center">
-  <img class="ui image" src="../images/sniffDog.png">
-</div>
+
+<img class="ui small center floated image" src="../images/sniffDog.png">
 
 ## Who Cares About Coding Standards?
 
