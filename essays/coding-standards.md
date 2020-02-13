@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="ui fluid images" align="center">
-  <img class="ui image" src="../images/dog.jpg">
+  <img class="ui image" src="../images/sniffDog.png">
 </div>
 
 ## Who Cares About Coding Standards?
