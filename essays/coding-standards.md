@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="ui fluid images" align="center">
-  <img class="ui image" src="../images/freecodecamp.png">
+  <img class="ui image" src="../images/dog.jpg">
 </div>
 ## Who Cares About Coding Standards?
 
