@@ -12,6 +12,8 @@ labels:
 
 Instead of writing a whole essay on how I feel about frameworks, how about I just leave this picture here. Pictures say a thousand words, right?
 
+<img src="sad-cat.JPG">
+
 
 
 Kidding.
