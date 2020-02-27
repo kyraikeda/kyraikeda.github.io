@@ -10,14 +10,16 @@ labels:
   - Semantic UI
 ---
 
+<br>
 Instead of writing a whole essay on how I feel about frameworks, how about I just leave this picture here. Pictures say a thousand words, right?
 
 <img class="ui medium image" src="../images/sad-cat.JPG">
 <br>
 <br>
-<br>
 
 Kidding.
+<br>
+<br>
 
 Anyways, I've heard that HTML and CSS are easy languages to understand with little complexity in it since it's all self-explanatory. I can somewhat agree, but I admit that I struggled at first to get used to the syntax and structure. Using a framework, on the other hand, is an entirely different story. I appreciate how using a framework already makes the creation look modern and appealing, but the complexity of it is leagues above basic HTML and CSS.
 <br>
