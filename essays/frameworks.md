@@ -12,7 +12,7 @@ labels:
 
 Instead of writing a whole essay on how I feel about frameworks, how about I just leave this picture here. Pictures say a thousand words, right?
 
-<img src="images/sad-cat.JPG">
+<img src="https://github.com/kyraikeda/kyraikeda.github.io/blob/master/images/sad-cat.JPG?raw=true">
 
 
 
