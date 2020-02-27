@@ -13,7 +13,7 @@ labels:
 <br>
 Instead of writing a whole essay on how I feel about frameworks, how about I just leave this picture here. Pictures say a thousand words, right?
 
-<img class="ui medium image" src="../images/sad-cat.JPG">
+<img class="ui large image" src="../images/sad-cat.JPG">
 <br>
 <br>
 
