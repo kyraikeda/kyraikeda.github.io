@@ -33,3 +33,6 @@ Well, it comes from the fact that there are endless combinations of descriptions
 
 # Whoo, the End!
 This was my first time using a framework, so feeling temporarily discouraged was a given. Even through all the difficulty, it was an enlightening experience that trained me to problem solve and keep practicing. Although I’m still not perfect at Semantic, it inspires me to keep going until I’m close to perfect and experience other frameworks.
+<br>
+<br>
+
