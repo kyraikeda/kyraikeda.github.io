@@ -11,7 +11,7 @@ labels:
 ---
 
 <br>
-Instead of writing a whole essay on how I felt about frameworks, how about I just leave this picture here. <br>
+Instead of writing a whole essay on how I felt about frameworks, how about I just leave this picture here. <br><br>
 <img class="ui large image" src="../images/sad-cat.JPG">
 <br>
 <br>
