@@ -25,7 +25,7 @@ Anyways, I've always heard that HTML and CSS are easy languages to understand an
 <br>
 
 # A Treacherous Trek Through Frameworks
-<img class="ui fluid image" src="../images/pngfuel.com.png">
+<img class="ui fluid image" src="../images/path.png">
 Learning Semantic UI is like going on a new, long hike. The beginning is filled with excitement and a dash of anxiety as you’re trying something new. You pretty much go in blindly with only hope to serve as a guide. Halfway through the journey, you get lost and a little stuck. With an uneasy feeling about getting through the rest, you think, "Why did I even try this?" That's exactly what I felt like when I started using Semantic. What started off as a simple hike quickly turned into climbing Everest for me. Okay, maybe I’m being too dramatic, but it was difficult. I think the difficulty lies in the fact that Semantic uses a description-based system that resembles casual English. For example, if I wanted to make an image small, I'd just have to use the phrase "ui small image". It's as simple as that.
 
 <i>If it's that simple, then what was I so confused about?</i><br>
