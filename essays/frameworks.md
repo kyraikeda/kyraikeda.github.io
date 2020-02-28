@@ -20,7 +20,7 @@ Kidding.
 <br>
 <br>
 
-Anyways, I've always heard that HTML and CSS are easy languages to understand and pretty basic knowledge for anyone in the computer science field. I can somewhat agree, but having no previous experience with either, I admit to struggling with the syntax and structure at first. Add a framework like Semantic UI to that mix and somehow I'm even more lost. I appreciate how using a framework insatntly makes the creation look more modern and appealing, but the complexity of it is levels above basic HTML and CSS.
+Anyways, I've always heard that HTML and CSS are easy languages to understand and pretty basic knowledge for anyone in the computer science field. I can somewhat agree, but having no previous experience with either, I admit to struggling with the syntax and structure at first. Add a framework like Semantic UI to that mix and somehow I'm even more lost. I appreciate how using a framework instantly makes the creation look more modern and appealing, but the complexity of it is levels above basic HTML and CSS.
 <br>
 <br>
 
