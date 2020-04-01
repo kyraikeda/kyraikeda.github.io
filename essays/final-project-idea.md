@@ -23,23 +23,23 @@ The site will allow users to filter professors by course and/or rating. One feat
 If users see a review that is inappropriate, they can report it via the report button on the professor list page. This sends a report to the Admin in which they can determine what to do with the review from there.
 
 Mockup pages include:
-<li>Landing page</li>
-<li>Register page</li>
-<li>User home page</li>
-<li>User profile page</li>
-<li>Professor List page</li>
-<li>Add professor page</li>
-<li>Create review page</li>
-<li>Edit Review page</li>
-<li>Admin home page</li>
+* Landing page
+* Register page
+* User home page
+* User profile page
+* Professor List page
+* Add professor page
+* Create review page
+* Edit Review page
+* Admin home page
 
 ## Case ideas
-<li>New user goes to landing page, registers, User home page, User profile page</li>
-<li>Returning user goes to landing page, logs in, browses through professors, created/edits reviews</li>
-<li>Admin user goes to landing page, login, Admin home page, and is able to monitor the site</li>
+* New user goes to landing page, registers, User home page, User profile page
+* Returning user goes to landing page, logs in, browses through professors, created/edits reviews
+* Admin user goes to landing page, login, Admin home page, and is able to monitor the site
 
 
 ## Beyond the basics
-<li>Special Sauce can be to add a forum-like component to the site by letting students add comments to others' reviews</li>
-<li>There can be a student made section for each course where students can add their own tips for succeeding in the course or how to prepare before taking it</li>
+* Special Sauce can be to add a forum-like component to the site by letting students add comments to others' reviews
+* There can be a student made section for each course where students can add their own tips for succeeding in the course or how to prepare before taking it
 
