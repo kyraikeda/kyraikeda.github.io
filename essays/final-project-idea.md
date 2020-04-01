@@ -11,16 +11,16 @@ labels:
 # Project: Rate My UHM Prof
 
 ## Overview
-<i>The problem:</i> The actual RateMyProfessors site can be difficult to use at times due to there being so many professor names to filter. Also, you can't update a review after submitting, which There is also the problem that you can't guarantee whether a review is just a troll or not.
+<i>The problem:</i> The actual RateMyProfessors site can be difficult to use at times due to there being so many professor names to filter. Also, you can't update a review after submitting and there is a character limit to the reviews, which can be stifling. There is also the problem that you can't guarantee whether a review is just a troll or not.
 
-<i>The solution:</i> Rate My UHM Prof, a centralized website where only current UH Manoa students can review their professors.
+<i>The solution:</i> Rate My UHM Prof, a centralized website where only current UH Manoa students can review their professors. By registering and logging in with their UH student ID, we can guarantee the reviews are written by real students.
 
 ## Mockup page ideas
 There are multiple user roles. The student role can be any student with a UH id, and they're allowed to make and view reviews. The admin role is chosen by the site creators to monitor and filter out abusive or unrelated posts.
 
-The site will allow users to filter professors by course and rating. 
+The site will allow users to filter professors by course and/or rating. One feature is to not set a character limit so that students can include more information if they wish. Students will be able to thumbs up or thumbs down reviews that they feel don't accurately describe their own experience.
 
-If users see a review that is inappropriate, they can report it via the report button on the professor list page. This sends a report to the Admin.
+If users see a review that is inappropriate, they can report it via the report button on the professor list page. This sends a report to the Admin in which they can determine what to do with the review from there.
 
 Mockup pages include:
 <li>Landing page</li>
@@ -40,7 +40,6 @@ Mockup pages include:
 
 
 ## Beyond the basics
-<li>Special Sauce can be a rating system for users to rate other users to filter out bad sellers and reliability</li>
-<li>There can be a map feature to show users where the seller is located and suggest meeting spots</li>
-<li>The site also has courses and lists the books required for each course</li>
+<li>Special Sauce can be to add a forum-like component to the site by letting students add comments to others' reviews</li>
+<li>There can be a student made section for each course where students can add their own tips for succeeding in the course or how to prepare before taking it</li>
 
