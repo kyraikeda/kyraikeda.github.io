@@ -11,7 +11,7 @@ labels:
 
 This is one of those times that you never think would happen and so quickly at that. Since the start of quarantine, I’ve been contemplating about how life has changed daily. I’m no stranger to staying home all day for weeks, but it’s so different this time. Being forced to stay in and choosing to stay in are two different things in my eyes. 
 
-<img class="ui medium image" right floated image src="../images/thumbsup.png">
+<img class="ui medium image" src="../images/shockedelmo.JPG">
 
 ## School
 This is my first semester here transferring from LCC, so it’s very saddening to see that it’s cut short. I was anxious that I wouldn’t find friends and struggle with the daily routine, but that wasn’t the case. I made friends with a group that struggle along with me in ICS 311, and my routine of spending at least 13 hours on campus every day didn’t seem so bad. In fact, now I really miss everyone and having that structure in my life. I’ve always been a major introvert with a weak social battery, but what I did experience from this semester changed that. I need the face-to-face interaction with friends, and the sudden change has taken a toll on my mental health.
@@ -26,3 +26,5 @@ My dad is the only one who works in the family now since he does construction. I
 Really the best and only choice we have is to practice social distancing to flatten the curve. A vaccine may not be available for another year, and there’s the chance that COVID-19 could mutate to be resistant. I think that this pandemic unearthed a lot of flaws in the American healthcare system and particularly Hawaii’s government due to how they decided to handle the situation. I’m clueless to how we can fix these issues, but I have hope that they will change because of the virus.
 
 Although this is a painful time both physically for some and mentally for others, this should be a lesson for everyone. Appreciate all the workers who are still out doing their thing because they’re risking their health. I personally realized that I need to stop wasting so much time on useless things. I’m sitting here at home regretting all the things that I didn’t do. When this is over, first thing I’m going to do is go to the beach and watch a sunset with friends or something. Life is too short to waste any moment.
+
+<img class="ui medium image" right floated image src="../images/thumbsup.png">
