@@ -8,7 +8,7 @@ labels:
   - Social Distancing
   - College
 ---
-
+<br><br>
 This is one of those times that you never think would happen and so quickly at that. Since the start of quarantine, I’ve been contemplating about how life has changed daily. I’m no stranger to staying home all day for weeks, but it’s so different this time. Being forced to stay in and choosing to stay in are two different things in my eyes. 
 
 <img class="ui medium image" src="../images/shockedelmo.JPG">
