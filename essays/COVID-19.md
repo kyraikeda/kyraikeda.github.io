@@ -29,6 +29,6 @@ Really the best and only choice we have is to practice social distancing to flat
 
 Although this is a painful time both physically for some and mentally for others, this should be a lesson for everyone. Appreciate all the workers who are still out doing their thing because they’re risking their health. I personally realized that I need to stop wasting so much time on useless things. I’m sitting here at home regretting all the things that I didn’t do. When this is over, first thing I’m going to do is go to the beach and watch a sunset with friends or something. Life is too short to waste any moment.
 
-<div class="ui fluid images" align="right">
-  <img class="ui medium image" right floated image src="../images/thumbsup.png">
-</div>
+
+<img class="ui medium image" align="right" src="../images/thumbsup.png">
+
