@@ -29,7 +29,7 @@ My dad is the only one who works in the family now since he does construction. I
 ## Moving Forward
 Really the best and only choice we have is to practice social distancing to flatten the curve. A vaccine may not be available for another year, and there’s the chance that COVID-19 could mutate to be resistant. I think that this pandemic unearthed a lot of flaws in the American healthcare system and particularly Hawaii’s government due to how they decided to handle the situation. I’m clueless to how we can fix these issues, but I have hope that they will change because of the virus.
 
-Although this is a painful time both physically for some and mentally for others, this should be a lesson for everyone. Appreciate all the workers who are still out doing their thing because they’re risking their health. I personally realized that I need to stop wasting so much time on useless things. I’m sitting here at home regretting all the things that I didn’t do. When this is over, first thing I’m going to do is go to the beach and watch a sunset with friends or something. Life is too short to waste any moment.
+Although this is a painful time both physically for some and mentally for others, this should be a lesson for everyone. Appreciate all the workers who are still out doing their thing because they’re risking their health. I personally realized that I need to stop wasting so much time on useless things. I’m sitting here at home regretting all the things that I didn’t do. When this is over, the first thing I’m going to do is go to the beach and watch a sunset with friends or something. Life is too short to waste any moment.
 
 
 <img class="ui medium image" align="right" src="../images/thumbsup.png">
