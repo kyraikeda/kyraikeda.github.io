@@ -33,5 +33,3 @@ Although this is a painful time both physically for some and mentally for others
 
 
 <img class="ui medium image" align="right" src="../images/thumbsup.png">
-<br><br>
-
