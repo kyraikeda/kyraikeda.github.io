@@ -14,6 +14,7 @@ labels:
 ~ Ben Carson
 <img class="ui fluid image" align="center" src="../images/coding.png">
 
+<br/>
 ## Ethics in Software Engineering
 Ethics is a difficult term to define in a sentence or two. Although there is a general feeling as to what ethics is, it takes on many formal definitions depending on the field it’s being applied to. In the context of software engineering, it generally means creating code that serves public welfare and upholds the highest quality for both the client and the people. <img class="ui tiny right floated image" src="../images/codeofethics2.png">
 The [ACM Code of Ethics](https://www.acm.org/code-of-ethics) is one of many sets of coding ethics, and I will be referencing that throughout this essay.
