@@ -12,11 +12,10 @@ labels:
 *"There's no question that as science, knowledge and technology advance, that we will attempt to do more significant things. And there's no question that we will always have to temper those things with ethics."*
 
 ~ Ben Carson
-
 <img class="ui fluid image" align="center" src="../images/coding.png">
 
-Ethics is a difficult term to define in a sentence or two. Although there is a general feeling as to what ethics is, it takes on many formal definitions depending on the field it’s being applied to. In the context of software engineering, it generally means creating code that serves public welfare and upholds the highest quality for both the client and the people. The [ACM Code of Ethics](https://www.acm.org/code-of-ethics) is one of many sets of coding ethics, and I will be referencing that throughout this essay.
-<img class="ui tiny right floated image" src="../images/codeofethics2.png">
+Ethics is a difficult term to define in a sentence or two. Although there is a general feeling as to what ethics is, it takes on many formal definitions depending on the field it’s being applied to. In the context of software engineering, it generally means creating code that serves public welfare and upholds the highest quality for both the client and the people. <img class="ui tiny right floated image" src="../images/codeofethics2.png">
+The [ACM Code of Ethics](https://www.acm.org/code-of-ethics) is one of many sets of coding ethics, and I will be referencing that throughout this essay.
 
 I’ve never given much thought about how ethics works in computer science since I’ve been too focused on just learning the fundamentals about how to code, etc. I’ve been aware that ethical issues were always present in technology especially due to the growth of the Internet and social media like Facebook. These are more privacy issues, and there are those where one’s code can impact public health. In the following section, I will discuss a case study where a developed coded a website he regrets to this day.
 
