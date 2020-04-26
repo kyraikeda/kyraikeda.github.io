@@ -1,4 +1,16 @@
-Ethics is a difficult term to define with a sentence or two. Although there is a general feeling as to what ethics is, it takes on many formal definitions depending on the field it’s being applied to. In the context of software engineering, it generally means creating code that serves public welfare and upholds the highest quality for both the client and the people. The ACM Code of Ethics is one of many sets of coding ethics, and I will be referencing that throughout this essay.
+---
+layout: essay
+type: essay
+title: "Good Intentions"
+date: 2020-04-25
+labels:
+  - Ethics
+  - Software Engineering
+  - ACM
+---
+
+Ethics is a difficult term to define in a sentence or two. Although there is a general feeling as to what ethics is, it takes on many formal definitions depending on the field it’s being applied to. In the context of software engineering, it generally means creating code that serves public welfare and upholds the highest quality for both the client and the people. The ACM Code of Ethics is one of many sets of coding ethics, and I will be referencing that throughout this essay.
+
 I’ve never given much thought about how ethics works in computer science since I’ve been too focused on just learning the fundamentals about how to code, etc. I’ve been aware that ethical issues were always present in technology especially due to the growth of the Internet and social media like Facebook. These are more privacy issues, and there are those where one’s code can impact public health. In the following section, I will discuss a case study where a developed coded a website he regrets to this day.
 
 ## A Code
