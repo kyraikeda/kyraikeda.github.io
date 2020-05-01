@@ -22,3 +22,8 @@ Behavioral design patterns are about class objects’ communication. These are c
 
 ## In My Own Work
 Without realizing, I have used some design patterns in my own coding projects. In ICS 111 and 211 where we used Java, I utilized the creational design pattern, specifically the prototype one. Now in ICS 314, we use the framework Meteor to build web applications. Meteor actually uses the Model View Controller (MV) pattern as their basis. The MVC pattern logically divides application concerns into three components where developers can work simultaneously on different parts. Currently, I’m working on a buying/selling site called Manoalist which uses Meteor. For this project specifically, we use MongoDB as our database (model), React to work on our front-end UI design (view), and a router to bring our components to life on the site (controller). Clearly, I can see how design patterns make our coding efficient and the environments we use take advantage of these design patterns.
+<br/> 
+
+<img class="ui medium image" align="center" src="https://pics.me.me/software-engineer-e-design-patterns-programmer-design-patterns-software-engineer-31769032.png">
+
+
