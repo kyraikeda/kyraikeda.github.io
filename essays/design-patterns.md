@@ -9,6 +9,8 @@ labels:
   - Code
 ---
 
+<img class="ui fluid image" align="center" src="https://miro.medium.com/max/1400/1*d_lXoGt-EZDRuwg5lW9swg.png">
+
 As developers, we need to solve problems efficiently, but how do we do that? For painting, we often need a sketch as a basis to help form the finished product. In software engineering, we use something called design patterns as a basis to form solutions. These design patterns are guides to how problems should be addressed; they cannot be directly converted to finished code. They are useful to speeding up development because they are tested and proven! Design patterns even reduce subtle errors that may arise later if software is not being designed efficiently. As there are various methods to sketching on paper, there are different types of design patterns that are applied to different situations. The three general patterns are creational, structural, and behavioral.
 <br/>
 
