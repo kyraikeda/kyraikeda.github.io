@@ -16,7 +16,9 @@ As developers, we need to solve problems efficiently, but how do we do that? For
 
 ## Painting Things Clearer
 Creational design patterns are about class instantiation, and it can be divided further into class-creation and object-creation. Class-creation patterns use inheritance, while object-creation delegates effectively to finish the job. Some examples of this category are the prototype pattern where objects are created by making copies of a prototypical instance and the singleton pattern where a global variable is provided in an object-oriented language that does not support global variables.
+
 Structural design patterns are about class and object composition. Like creational patterns, structural patterns can be divided into class-creation and object-creation subdivisions. The structural class-creation pattern uses inheritance to compose interfaces, and the structural object-creation pattern defines ways to make objects have new functionality. An example of this pattern is the proxy pattern where objects represent other objects. 
+
 Behavioral design patterns are about class objects’ communication. These are concerned with how objects communicate with each other in code. An example of this is the observer pattern which describes notifying change to other classes.
 <br/>
 
@@ -25,5 +27,3 @@ Without realizing, I have used some design patterns in my own coding projects. I
 <br/> 
 
 <img class="ui medium image" align="center" src="https://pics.me.me/software-engineer-e-design-patterns-programmer-design-patterns-software-engineer-31769032.png">
-
-
