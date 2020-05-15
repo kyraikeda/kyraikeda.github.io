@@ -13,8 +13,10 @@ labels:
 summary: An application for UHM students to facilitate buying and selling of student-related goods.
 ---
 
-## WHAT IS MANOALIST?
+<br/>
+<img class="ui image" src="../images/landing.png">
 
+## WHAT IS MANOALIST?
 A website specifically designed for University of Hawaii at Manoa students to buy and sell student-related goods. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website “Craigslist” with added functionality. Our goal is to work closely as a team and develop a website that is both functional and aesthetic.
 
 Features:
@@ -22,16 +24,24 @@ Features:
 * Log in to view/post items for sale
 * Rate sellers after purchase
 * “Like” items to view later
+<br/><br/>
 
 ## THE DEVELOPERS
-
 Manoalist was developed by a team of five UH Manoa students: [Craig Opie](https://craigopie.github.io/), [Weirong He](https://heweiron.github.io/), [Tianhui Zhou](https://tianhuizhou.github.io/), [Edwin Zheng](https://edwin-zheng.github.io/), and me.
 
 
-My contribution to the project was mainly front-end tasks. I designed the circular logo 
+My contribution to the project was mainly front-end tasks.<br/>
+Here are the things I contributed:
+* Desgined the logo
+* Redesign the sign up page
+* Form the basis for the create a listing page
+* Create the item page format
+* Touched up page visuals
+<br/><br/>
+
+## THE EXPERIENCE
+Overall, it was a great experience working with my team. We had routine meetings twice a week through Zoom to discuss everyone's progress and future issues we need to work on. This was my first time developing a website, so things were confusing for me, of course. I developed a greater understanding for Meteor, Semantic UI React, and web design in general. 
 
 
 Source Code: https://github.com/manoalist/manoalist
 
-
-. One of those projects should present the application you developed for this class. The page should provide an overview of the project, what your contributions to the project were, what you learned from this experience, and one or more screenshots. It should include a link to the Organization GitHub Page associated with the project for those who want to see the source code and learn more about it. All project pages should include at least one screen image.
