@@ -8,7 +8,8 @@ labels:
   - Software engineering
 ---
 
-<img class="ui medium right floated image" src="../images/developer2.png">
+<img class="ui medium left floated image" src="../images/developer2.png">
+<img class="ui medium right floated image" src="../images/developer.png">
 Prior to Spring 2020, I had no experience with HTML, Javascript, or even web development in general. I had no idea what it was like to build websites and the process one must go through to do so. Through a software engineering course I’ve now completed, I learned all of these and more. While the class was about web application development on the surface, there were many concepts presented that can be applied to other fields. Specifically, I will be going through three topics: coding standards, agile project management, and ethics in software engineering.
 <br/><br/>
 
