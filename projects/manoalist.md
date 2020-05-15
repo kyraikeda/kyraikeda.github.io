@@ -14,7 +14,7 @@ summary: An application for UHM students to facilitate buying and selling of stu
 ---
 
 <br/>
-<img class="ui image" src="../images/landing.png">
+<img class="ui rounded image" src="../images/landing.png">
 
 ## WHAT IS MANOALIST?
 A website specifically designed for University of Hawaii at Manoa students to buy and sell student-related goods. Users can post valid information about their products on the platform, and the products will be displayed by searching their key words (label). It will be similar to the existing website “Craigslist” with added functionality. Our goal is to work closely as a team and develop a website that is both functional and aesthetic.
@@ -37,7 +37,7 @@ Here are the things I contributed:
 * Create the item page format
 * Touched up page visuals
 
-<img class="ui image" src="../images/signup.png">
+<img class="ui rounded image" src="../images/signup.png">
 <br/><br/>
 
 ## THE EXPERIENCE
