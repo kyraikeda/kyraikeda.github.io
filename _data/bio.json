@@ -51,16 +51,23 @@
       "keywords": [
         "C",
         "C++",
+        "CSS",
+        "HTML",
         "Java",
+        "Javascript",
+        "Semantic UI",
+        "Semantic UI React",
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Git/GitHub",
         "MacOS",
+        "Meteor",
+        "MongoDB",
         "Windows",
-        "Git/GitHub"
       ]
     }
   ],
