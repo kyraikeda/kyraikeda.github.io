@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/ART115D Flyer.jpg
-title: ART 115D Flyer
+title: ART 115D FLYER
 permalink: projects/designflyer
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-15
