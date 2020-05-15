@@ -42,5 +42,5 @@ Here are the things I contributed:
 ## THE EXPERIENCE
 Overall, it was a great experience working with my team. My team was diverse in terms of our experiences, which played in our favor. We had routine meetings twice a week through Zoom to discuss everyone's progress and future issues we need to work on. This was my first time developing a website, so things were confusing for me, of course. I developed a greater understanding for Mongo, Meteor, Semantic UI React, and web design in general. I have to say working with forms were tricky for me 
 
-Project Page: [Manoalist](https://manoalist.github.io/) 
+Project Page: [Manoalist](https://manoalist.github.io/)<br/>
 GitHub Repo: <a href="https://github.com/manoalist/manoalist"><i class="medium github icon"></i>"manoalist/manoalist"</a>
