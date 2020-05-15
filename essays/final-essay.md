@@ -8,7 +8,7 @@ labels:
   - Software engineering
 ---
 
-<img class="ui small right floated image" src="../images/developer2.png">
+<img class="ui medium right floated image" src="../images/developer2.png">
 Prior to Spring 2020, I had no experience with HTML, Javascript, or even web development in general. I had no idea what it was like to build websites and the process one must go through to do so. Through a software engineering course I’ve now completed, I learned all of these and more. While the class was about web application development on the surface, there were many concepts presented that can be applied to other fields. Specifically, I will be going through three topics: coding standards, agile project management, and ethics in software engineering.
 <br/><br/>
 
@@ -24,4 +24,6 @@ Agile project management is an approach to working on a project in parts to ensu
 *What is right? Why is one thing right and not the other?*
 
 The course brought up the complicated subject of ethics, which I never really thought about since the moment I declared my major to be Computer Science. Obviously, this is an important topic in this field as it is others. As software engineers, the code we write has so much potential to do both good and bad whether we know it or not. There are even written rules for ethics, for example, the [ACM Code of Ethics]( https://www.acm.org/code-of-ethics). You can read more about it in one of my other essays [here]( https://kyraikeda.github.io/essays/coding-ethics.html), but I read a story of how one developer made a website which promoted a drug that resulted in the loss of many teenage girls’ lives. While this wasn’t foreseen nor intended by the developer, it was still tragic for him and the public. This is why the topic of ethics becomes a concern because we need to set boundaries. It’s not always easy to decide if some situations are ethical, but it’s important to have a basis. I will always carry the thought of ethics around since it’s a thing that affects all aspects of life from daily tasks to art to academics. 
+
+<img class="ui fluid image" src="../images/footsteps.png">
 <br/><br/>
