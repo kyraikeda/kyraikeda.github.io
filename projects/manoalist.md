@@ -40,7 +40,8 @@ Here are the things I contributed:
 <br/><br/>
 
 ## THE EXPERIENCE
-Overall, it was a great experience working with my team. My team was diverse in terms of our experiences, which played in our favor. We had routine meetings twice a week through Zoom to discuss everyone's progress and future issues we need to work on. This was my first time developing a website, so things were confusing for me, of course. I have to say working with forms were tricky for me  I developed a greater understanding for Mongo, Meteor, Semantic UI React, and web design in general. 
+Overall, it was a great experience working with my team. My team was diverse in terms of our experiences, which played in our favor. We had routine meetings twice a week through Zoom to discuss everyone's progress and future issues we need to work on. This was my first time developing a website, so things were confusing for me, of course. I have to say working with forms were tricky for me when it came to validating inputs and properly checking for errors. I also had this issue of the create a listing page displaying for me and my other teammate, but not for the others. The issue was that I didn't update npm packages, and I later found that we had to install another one to use Autoform for Meteor. This taught me to always check for updates and keep up with any new ones that might affect development. In the end, I developed a greater understanding for Mongo, Meteor, Semantic UI React, and web design in general. 
+<br/><br/>
 
 Project Page: [Manoalist](https://manoalist.github.io/)<br/>
-GitHub Repo: <a href="https://github.com/manoalist/manoalist"><i class="large github icon"></i>"Manoalist GitHub"</a>
+GitHub Repo: <a href="https://github.com/manoalist/manoalist"><i class="large github icon"></i>Manoalist</a>
