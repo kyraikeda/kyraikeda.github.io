@@ -9,7 +9,7 @@ labels:
 ---
 
 <img class="ui medium left floated image" src="../images/developer2.png">
-<img class="ui medium right floated image" src="../images/developer.png">
+
 Prior to Spring 2020, I had no experience with HTML, Javascript, or even web development in general. I had no idea what it was like to build websites and the process one must go through to do so. Through a software engineering course I’ve now completed, I learned all of these and more. While the class was about web application development on the surface, there were many concepts presented that can be applied to other fields. Specifically, I will be going through three topics: coding standards, agile project management, and ethics in software engineering.
 <br/><br/>
 
@@ -18,7 +18,8 @@ Similar to how we have grammar rules for the English language, there is a univer
 <br/><br/>
 
 ## Agile Project Management
-Agile project management is an approach to working on a project in parts to ensure continuous improvements of it. Particularly, we focused on issue driven project management, which divides projects into milestones and further into “issues” that are divided amongst the team. To experience this method, we used GitHubs project board service for our final project. The team I was in had a total of three milestones and about 50-60 issues per milestone. The purpose of the milestones was to set deadlines on when certain tasks should be completed and keep us on track to eventually develop a well-functioning website. If you would like to see a GitHub project board in action, feel free to click [here](https://github.com/manoalist/manoalist/projects) to see the project I worked on. Learning about this method was confusing for me at first, but after going through the motions, it actually became easy and natural for me. I could see myself implementing this type of project management for other group projects in other classes.
+Agile project management is an approach to working on a project in parts to ensure continuous improvements of it.<img class="ui small right floated image" src="../images/developer.png">
+Particularly, we focused on issue driven project management, which divides projects into milestones and further into “issues” that are divided amongst the team. To experience this method, we used GitHubs project board service for our final project. The team I was in had a total of three milestones and about 50-60 issues per milestone. The purpose of the milestones was to set deadlines on when certain tasks should be completed and keep us on track to eventually develop a well-functioning website. If you would like to see a GitHub project board in action, feel free to click [here](https://github.com/manoalist/manoalist/projects) to see the project I worked on. Learning about this method was confusing for me at first, but after going through the motions, it actually became easy and natural for me. I could see myself implementing this type of project management for other group projects in other classes.
 <br/><br/>
 
 ## Ethics in Software Engineering
