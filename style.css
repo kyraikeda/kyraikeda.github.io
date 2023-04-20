@@ -21,6 +21,12 @@ h6 {
     margin-top: 1rem;
 }
 
+/* MAKING h1 FONT SIZE LARGER */
+.big-heading {
+    font-size: 6rem;
+}
+
+/* BACK TO TOP BUTTON STYLING */
 #toTopButton {
     cursor: pointer;
     position: fixed;
@@ -35,9 +41,9 @@ h6 {
     border-radius: 0.75rem;
 }
 
+/* TOP NAVBAR STYLING */
 #navbar ul {
     display: flex;
-
     justify-content: end;
 }
 
@@ -54,11 +60,11 @@ li a {
 
 }
 
+/* FORMATTING MAIN SECTIONS */
 .section {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    /* padding: 10rem; */
     min-height: 100vh;
 }
 
@@ -67,20 +73,23 @@ li a {
     padding-right: 5rem;
 }
 
+.middle-col {
+    flex: 0 1 45%;
+}
+
+/* ABOUT PAGE SECTION */
 #aboutMe {
     display: flex;
     flex-direction: row;
 }
 
-#aboutMe>p {
-    flex: 0 1 30rem;
-
+.aboutCol {
+    display: flex;
+    flex-direction: row;
 }
 
-.big-heading {
-    font-size: 6rem;
-}
-
+/* TODO */
+/* EXPERIENCE TAB VIEW  */
 .tabMenu {
     display: inline-flex;
     /* flex-direction: row; */

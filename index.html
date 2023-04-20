@@ -31,40 +31,45 @@
     <button id="toTopButton" onclick="backToTop()" hidden>&#8593;</button>
 
     <!-- MAIN SECTION -->
-
     <div class="section">
 
-      <span class="inside" id="main">
+      <div class="inside middle-col" id="main">
         <h5 style="color: #A5D7E8">>> Hey! My name is</h5>
         <h1 class="big-heading">Kyra Ikeda.</h1>
-        <h3 class="" style="color: #A5D7E8">I'm a coder + creative.<br>Semi-recent graduate with a Bachelor's degree in
-          Computer Science<br>from
-          the University of Hawaiʻi at Mānoa!
+        <h3 style="color: #A5D7E8">I'm a coder + creative.<br>Semi-recent graduate with a Bachelor's degree in
+          Computer Science from the University of Hawaiʻi at Mānoa!
         </h3>
-      </span>
+        <div>
+          <a>GitHub</a>
+          <a>LinkedIn</a>
+          <a>Email</a>
+        </div>
+      </div>
 
     </div>
 
 
     <!-- ABOUT ME -->
     <div class="section" id="about">
-      <div class="inside">
-        <h1>About Me!</h1>
-        <div id="aboutMe">
-          <p>
-            I'm Kyra!<br>
-            I bring the best of both worlds to all of my experiences: logic and art!
-          </p>
-          <img src="images/pfp.jpg" width="200rem" />
+      <div class="inside middle-col">
+        <div class="">
+          <h1>About Me!</h1>
+          <div class="aboutCol">
+            <p>
+              I'm Kyra!<br>
+              I bring the best of both worlds to all of my projects and endeavors: logic and art!
+            </p>
+            <img src="images/pfp.jpg" width="200rem" />
+          </div>
         </div>
       </div>
     </div>
 
 
     <!-- EXPERIENCE -->
-    <div class="section">
+    <div id="exp" class="section">
       <div class="inside">
-        <h1 id="exp">Experience!</h1>
+        <h1>Experience!</h1>
         <div class="tabMenu">
           <div class="tabs">
             <button class="tablinks" onClick="openExp(event, 'yup')" id="defaultOpen">Subaru Telescope</button>
@@ -85,17 +90,17 @@
     </div>
 
     <!-- WORK -->
-    <div class="section">
+    <div id="work" class="section">
       <div class="inside">
-        <h1 id="work" class="col">Work!</h1>
+        <h1 class="col">Work!</h1>
       </div>
 
     </div>
 
     <!-- CONTACT-->
-    <div class="section">
+    <div id="contact" class="section">
       <div class="inside">
-        <h1 id="contact" class="col">Contact Me!</h1>
+        <h1 class="col">Contact Me!</h1>
 
       </div>
 
