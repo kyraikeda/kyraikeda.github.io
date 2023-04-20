@@ -8,11 +8,14 @@ $(document).ready(function () {
 window.onscroll = function () { showScroll() };
 
 function showScroll() { // show/hide "back to top' button
-    if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-        document.getElementById("toTopButton").hidden = false;
-    } else {
-        document.getElementById("toTopButton").hidden = true;
-    }
+
+    // $(window).on('scroll', function () {
+    //     console.log($(this).scrollTop());
+    // });
+    (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) ?
+
+        document.getElementById("toTopButton").hidden = false :
+        document.getElementById("toTopButton").hidden = true
 }
 
 function backToTop() {
@@ -47,6 +50,5 @@ function openExp(event, idName) {
 
     // show the current tab and add "active" class
     let currentTab = document.getElementById(idName);
-    console.log(currentTab);
     currentTab.hidden = false;
 }
