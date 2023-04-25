@@ -12,11 +12,7 @@ html {
     scroll-behavior: smooth;
 }
 
-h1,
-h2,
-h3,
-h5,
-h6 {
+h1, h2, h3, h5, h6 {
     margin-bottom: 1rem;
     margin-top: 1rem;
 }
@@ -47,9 +43,8 @@ h6 {
     justify-content: end;
 }
 
-li {
+#navbar ul > li {
     list-style: none;
-    /* display: inline-flex; */
 }
 
 li a {
@@ -57,7 +52,6 @@ li a {
     font-size: 1.3rem;
     padding: 1rem 1rem;
     text-decoration: none;
-
 }
 
 /* FORMATTING MAIN SECTIONS */
@@ -74,7 +68,14 @@ li a {
 }
 
 .middle-col {
-    flex: 0 1 45%;
+    flex: 0 1 100%;
+    max-width: 43%;
+}
+
+.icon {
+    text-decoration: none;
+    color: white;
+
 }
 
 /* ABOUT PAGE SECTION */
@@ -93,8 +94,8 @@ li a {
 .tabMenu {
     display: inline-flex;
     /* flex-direction: row; */
-    width: 50rem;
-    height: 30rem;
+    /* width: 50rem; */
+    height: 70%;
 }
 
 .tabs {
@@ -107,7 +108,7 @@ li a {
     display: flex;
     flex-direction: column;
     outline: none;
-    border: none;
+    /* border: none; */
     width: 100%;
     cursor: pointer;
 }
