@@ -1,11 +1,16 @@
 // FUNCTIONS!
 
-$(document).ready(function () {
-    document.getElementById("defaultOpen").click();
-});
+if (window.location.pathname == '/index') {
+    $(document).ready(function () {
+        document.getElementById("defaultOpen").click();
+    });
+}
 
 // CONTROL SCROLL TO TOP FUNCTIONALITY
-window.onscroll = function () { showScroll() };
+if (window.location.pathname == '/index') {
+    window.onscroll = function () { showScroll() };
+}
+
 
 function showScroll() { // show/hide "back to top' button
 
