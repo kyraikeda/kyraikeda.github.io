@@ -2,8 +2,8 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    font-weight: 500;
-    font-size: 250%;
+    font-weight: 400;
+    font-size: 2rem;
     color: #CB8589;
     background-color: #FFF2E0;
 }
@@ -12,8 +12,19 @@ html {
     scroll-behavior: smooth;
 }
 
+h1,
+h2,
+h3,
+h5,
+h6 {
+    /* margin-bottom: 3%; */
+    margin-top: 3%;
+}
+
 .wholePage {
-    width: 100%;
+    /* width: 100%; */
+    padding: 5% 5%;
+
 }
 
 .headerWrapper {
@@ -23,6 +34,7 @@ html {
     grid-template-areas:
         ". name ."
         ". summary .";
+
 }
 
 .name {
@@ -31,19 +43,20 @@ html {
 
 .summary {
     grid-area: summary;
-    /* margin: 0px; */
+    display: grid;
+    justify-items: center;
+    place-self: center;
 }
 
 .imgWrapper {
     display: grid;
-    padding: 0 8rem;
+    /* padding: 0 5%; */
     grid-template-columns: repeat(3, 1fr);
     justify-items: center;
-    gap: 5%;
+    gap: 3%;
     grid-template-areas:
-        "image1 image2 image3"
-        ". . .";
-        
+        "image1 image2 image3";
+
 }
 
 .image1 {

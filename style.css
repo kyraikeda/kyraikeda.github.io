@@ -63,13 +63,12 @@ li a {
 }
 
 .inside {
-    padding-top: 10rem;
-    padding-right: 5rem;
+    padding: 10% 25% 0%;
 }
 
 .middle-col {
     flex: 0 1 100%;
-    max-width: 43%;
+    /* max-width: 50%; */
 }
 
 .icon {

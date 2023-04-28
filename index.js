@@ -1,15 +1,16 @@
 // FUNCTIONS!
 
-if (window.location.pathname == '/index') {
-    $(document).ready(function () {
+$(document).ready(function () {
+    if (document.body.classList.contains('index')) {
+        // Click experience tab on page load
         document.getElementById("defaultOpen").click();
-    });
-}
+        // CONTROL SCROLL TO TOP FUNCTIONALITY
+        window.onscroll = function () { showScroll() };
+    }
+});
 
-// CONTROL SCROLL TO TOP FUNCTIONALITY
-if (window.location.pathname == '/index') {
-    window.onscroll = function () { showScroll() };
-}
+// Click image to view full screen function but idk if i want this
+// $(document).ready(function(){$("img").click(function(){this.requestFullscreen()})});
 
 
 function showScroll() { // show/hide "back to top' button
