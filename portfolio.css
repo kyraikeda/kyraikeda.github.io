@@ -23,7 +23,7 @@ h6 {
 
 .wholePage {
     /* width: 100%; */
-    padding: 5% 5%;
+    padding: 3% 5%;
 
 }
 
@@ -34,11 +34,11 @@ h6 {
     grid-template-areas:
         ". name ."
         ". summary .";
-
 }
 
 .name {
     grid-area: name;
+    white-space: nowrap;
 }
 
 .summary {
@@ -51,12 +51,11 @@ h6 {
 .imgWrapper {
     display: grid;
     /* padding: 0 5%; */
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     justify-items: center;
     gap: 3%;
     grid-template-areas:
-        "image1 image2 image3";
-
+        "image1 image2 image3 image4";
 }
 
 .image1 {
@@ -71,8 +70,24 @@ h6 {
     grid-area: image3;
 }
 
+.image4 {
+    grid-area: image4;
+}
+
 .image img {
     width: 100%;
     object-fit: cover;
     overflow: hidden;
+}
+
+#coder {
+    margin-top: -10%;
+}
+
+#pageExp {
+    /* margin-top: -13%; */
+    padding-bottom: 7%;
+    white-space: nowrap;
+    font-size: large;
+
 }
