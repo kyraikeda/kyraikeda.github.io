@@ -20,29 +20,32 @@
     <!-- NAVBAR -->
     <div id="navbar">
       <ul>
-        <li><a href="#about" onClick="scrollToView('about')">About</a></li>
-        <li><a href="#exp" onClick="scrollToView('exp')">Experience</a></li>
-        <li><a href="#work" onClick="scrollToView('work')">Work</a></li>
-        <li><a href="#contact" onClick="scrollToView('contact')">Contact</a></li>
+        <li><a href="#about" onClick="scrollToView('about')">ABOUT</a></li>
+        <li><a href="#exp" onClick="scrollToView('exp')">EXPERIENCE</a></li>
+        <li><a href="#projects" onClick="scrollToView('projects')">PROJECTS</a></li>
+        <li><a href="#contact" onClick="scrollToView('contact')">CONTACT</a></li>
       </ul>
     </div>
 
     <!-- BUTTON TO SCROLL BACK TO TOP -->
-    <button id="toTopButton" onclick="backToTop()" hidden>&#8593;</button>
+    <button id="toTopButton" onclick="backToTop()" hidden>&#708;</button>
 
-    <a href="./portfolio.html">To Portfolio</a>  <!-- delete later -->
+    <!-- <a href="./portfolio.html">To Portfolio</a>   -->
+    <!-- delete later ^^^ -->
 
     <!-- MAIN SECTION -->
     <div class="section">
       <div class="inside middle-col" id="main">
         <h5 style="color: #A5D7E8">>> Hey! My name is</h5>
-        <h1 class="big-heading">Kyra Ikeda.</h1>
-        <h3 style="color: #A5D7E8">I'm a coder + creative.<br>Semi-recent graduate with a Bachelor's degree in
+        <h1 id="big-name">Kyra Ikeda.</h1>
+        <h3 style="color: #A5D7E8">Coder + creative &#127793;<br>Semi-recent graduate with a Bachelor's degree in
           Computer Science from the University of Hawaiʻi at Mānoa!
         </h3>
-        <div class="contactIcons">
-          <a target="_blank" href="https://github.com/kyraikeda" class="icon"><i class="fa-brands fa-lg fa-github"></i></a>
-          <a target="_blank" href="https://www.linkedin.com/in/kyraikeda/" class="icon"><i class="fa-brands fa-lg fa-linkedin"></i></a>
+        <div class="iconsContainer">
+          <a target="_blank" href="https://github.com/kyraikeda" class="icon"><i
+              class="fa-brands fa-lg fa-github"></i></a>
+          <a target="_blank" href="https://www.linkedin.com/in/kyraikeda/" class="icon"><i
+              class="fa-brands fa-lg fa-linkedin"></i></a>
           <a href="mailto: kyraikeda@gmail.com" class="icon"><i class="fa-sharp fa-lg fa-solid fa-envelope"></i></a>
         </div>
       </div>
@@ -53,11 +56,11 @@
     <div class="section" id="about">
       <div class="inside middle-col">
         <div class="">
-          <h1>About Me!</h1>
+          <h1 class="col">ABOUT ME</h1>
           <div class="aboutCol">
             <p>
-              I'm Kyra! <br>I was born and raised in Hawaiʻi.<br>
-              In my free time, I love to surf, create art with makeup, and create content for various cosmetic
+              I'm Kyra! (kai-rah) <br>I was born and raised in Hawaiʻi.<br>
+              In my free time, I love to surf and create content for various cosmetic
               brands!<br><br>
 
               To all of my projects and endeavors, I bring the best of both worlds: logic and art!
@@ -72,7 +75,7 @@
     <!-- EXPERIENCE -->
     <div id="exp" class="section">
       <div class="inside middle-col">
-        <h1>Experience!</h1>
+        <h1 class="col">EXPERIENCE</h1>
         <div class="tabMenu">
           <div class="tabs">
             <button class="tablinks" onClick="openExp(event, 'yup')" id="defaultOpen">Subaru Telescope</button>
@@ -103,10 +106,70 @@
       </div>
     </div>
 
-    <!-- WORK -->
-    <div id="work" class="section">
+    <!-- PROJECTS -->
+    <div id="projects" class="section">
       <div class="inside middle-col">
-        <h1 class="col">Work!</h1>
+        <h1 class="col">PROJECTS</h1>
+        <div class="boxesContainer">
+          <div class="projBox" id="proj1">
+            <h3>Coastar</h3>
+            <a target="_blank" href="https://github.com/HACC2021/Big-Brain-Coders" class="icon"><i
+                class="fa-brands fa-lg fa-github"></i></a>
+            <br>
+            <ul>
+              <li>
+                A mobile and web application that streamlines the process of reporting
+                marine wildlife sightings to Hawai’i Marine Animal Response (HMAR)
+              </li>
+              <li>
+                Primarily worked on front-end design and construction of the reports pages
+                using JavaScript, Meteor, and Semantic UI React
+              </li>
+              <li>
+                Implemented the functionality to export all data to a CSV file using HTML
+              </li>
+            </ul>
+          </div>
+          <div class="projBox" id="proj2">
+            <h3>Shocking Developments</h3>
+            <a target="_blank" href="https://shocking-development.github.io/" class="icon"><i
+                class="fa-brands fa-lg fa-github"></i></a>
+            <ul>
+              <li>
+                A web application for customers to monitor their greenhouse gas emissions
+                based on their current transportation and compare usage/costs to other
+                methods
+              </li>
+              <li>
+                Primarily worked on front-end design using Semantic UI React
+              </li>
+              <li>
+                Assisted with organizing data collections and methods for calculating
+                greenhouse gas emissions
+              </li>
+            </ul>
+
+
+
+          </div>
+          <div class="projBox" id="proj3">
+            <h3>Manoalist</h3>
+            <a target="_blank" href="https://manoalist.github.io/" class="icon"><i
+                class="fa-brands fa-lg fa-github"></i></a>
+            <ul>
+              <li>
+                Website built using JavaScript, Meteor, and Semantic UI React to provide
+              </li>
+              <li>
+                UH students a simple platform to buy/sell goods locally
+              </li>
+              <li>
+                Focused on front-end design and assisted with back-end API
+              </li>
+            </ul>
+
+          </div>
+        </div>
       </div>
 
     </div>
@@ -115,7 +178,14 @@
     <div id="contact" class="section">
       <div class="inside middle-col">
         <h1 class="col">Contact Me!</h1>
+        <div class="contactCards">
 
+          <p>
+            Add me on <a href="https://www.linkedin.com/in/kyraikeda/">LinkedIn</a>!
+            <br>Or shoot me an email at kyraikeda@gmail.com :)
+          </p>
+          <!-- <img src="images/pfp.jpg" width="30%" /> -->
+        </div>
       </div>
 
     </div>

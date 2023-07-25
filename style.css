@@ -18,11 +18,12 @@ h1, h2, h3, h5, h6 {
 }
 
 /* MAKING h1 FONT SIZE LARGER */
-.big-heading {
+#big-name {
     font-size: 6rem;
+    color: white;
 }
 
-/* BACK TO TOP BUTTON STYLING */
+/* "TO TOP" BUTTON STYLING */
 #toTopButton {
     cursor: pointer;
     position: fixed;
@@ -33,7 +34,7 @@ h1, h2, h3, h5, h6 {
     color: white;
     font-size: 200%;
     background-color: #B2A4FF;
-    border: 1px solid white;
+    border: 1px solid #B2A4FF;
     border-radius: 0.75rem;
 }
 
@@ -71,10 +72,18 @@ li a {
     /* max-width: 50%; */
 }
 
+.col {
+    color: #B2A4FF;
+}
+
+.iconsContainer {
+    display: flex;
+    gap: 0.5em;
+}
+
 .icon {
     text-decoration: none;
     color: white;
-
 }
 
 /* ABOUT PAGE SECTION */
@@ -88,6 +97,7 @@ li a {
     flex-direction: row;
 }
 
+/* EXPERIENCE SECTION */
 /* TODO */
 /* EXPERIENCE TAB VIEW  */
 .tabMenu {
@@ -126,4 +136,27 @@ li a {
     width: 100%;
     /* display: flex; */
     border: 1px solid #ccc;
+}
+
+
+/* PROJECT SECTION */
+.boxesContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.projBox {
+    background-color: hsla(216.92, 90.7%, 14%, 0.7);
+    flex-grow: 1;
+    border-radius: 10px;
+}
+
+/* CONTACT SECTION ????? */
+.contactCards {
+    display: flex;
+    flex-direction: row;
 }
