@@ -36,18 +36,18 @@
     <!-- MAIN SECTION -->
     <div class="section">
       <div class="inside middle-col" id="main">
-        <h5 style="color: #A5D7E8">>> Hey! My name is</h5>
-        <h1 id="big-name">Kyra Ikeda.</h1>
-        <h3 style="color: #A5D7E8">Coder + creative &#127793;<br>Semi-recent graduate with a Bachelor's degree in
-          Computer Science from the University of Hawaiʻi at Mānoa!
-        </h3>
-        <div class="iconsContainer">
-          <a target="_blank" href="https://github.com/kyraikeda" class="icon"><i
-              class="fa-brands fa-lg fa-github"></i></a>
-          <a target="_blank" href="https://www.linkedin.com/in/kyraikeda/" class="icon"><i
-              class="fa-brands fa-lg fa-linkedin"></i></a>
-          <a href="mailto: kyraikeda@gmail.com" class="icon"><i class="fa-sharp fa-lg fa-solid fa-envelope"></i></a>
-        </div>
+        <h4 style="color: #A5D7E8">>> Hey! My name is</h5>
+          <h1 id="big-name">Kyra Ikeda.</h1>
+          <h3 style="color: #A5D7E8">Coder + creative &#127793;<br>Semi-recent graduate with a B.S. in
+            Computer Science from the University of Hawaiʻi at Mānoa!
+          </h3>
+          <div class="iconsContainer">
+            <a target="_blank" href="https://github.com/kyraikeda" class="icon"><i
+                class="fa-brands fa-lg fa-github"></i></a>
+            <a target="_blank" href="https://www.linkedin.com/in/kyraikeda/" class="icon"><i
+                class="fa-brands fa-lg fa-linkedin"></i></a>
+            <a href="mailto: kyraikeda@gmail.com" class="icon"><i class="fa-sharp fa-lg fa-solid fa-envelope"></i></a>
+          </div>
       </div>
     </div>
 
@@ -76,14 +76,12 @@
     <div id="exp" class="section">
       <div class="inside middle-col">
         <h1 class="col">EXPERIENCE</h1>
-        <div class="tabMenu">
-          <div class="tabs">
-            <button class="tablinks" onClick="openExp(event, 'yup')" id="defaultOpen">Subaru Telescope</button>
-            <button class="tablinks" onClick="openExp(event, 'yep')">sdfsd</button>
-            <button class="tablinks" onClick="openExp(event, 'nop')">sdfsd</button>
-          </div>
-          <div id="yup" class="tabContent">
-            <h3>yup</h3>
+
+        <div class="card-container">
+          <div class="exp-card">
+            <h6>June 2021 - Aug 2021</h6>
+            <h3 class="exp-titles">Akamai Workforce Initiative Summer Intern</h3>
+            <h5>Subaru Telescope</h5>
             <ul>
               <li>Implemented Ginga, a toolkit of GUI widgets for building image viewers,
                 to operate on the web using Python, JavaScript, HTML, and CSS</li>
@@ -91,18 +89,28 @@
               <li>Utilized JavaScript JQWidgets Library and JQuery UI to construct the GUI widgets</li>
             </ul>
           </div>
-          <div id="yep" class="tabContent">
-            <h3>yep</h3>
+          <div class="exp-card">
+            <h6>Fall 2021, Fall - Spring 2020</h6>
+            <h3 class="exp-titles">President, Vice President</h3>
+            <h5>SWITCH-UHM</h5>
             <ul>
-              <li>Coordinated events with various speakers and between academic clubs</li>
-              <li>Served as a liaison between the Computer Science community and the
-                organization</li>
+              <li>Coordinated events with various speakers and between academic clubs
+              </li>
+              <li>Served as a liaison between the Computer Science community and the organization</li>
             </ul>
           </div>
-          <div id="nop" class="tabContent">
-            <h3>nop</h3>
+          <div class="exp-card">
+            <h6>Aug 2020 – Dec 2020</h6>
+            <h3 class="exp-titles">ICS Assistant TA</h3>
+            <h5>University of Hawaii at Manoa</h5>
+            <ul>
+              <li>Assisted ICS class laboratories three times per week</li>
+              <li>Created a lesson plan and instructed a week of laboratories</li>
+            </ul>
           </div>
+
         </div>
+
       </div>
     </div>
 
@@ -110,9 +118,9 @@
     <div id="projects" class="section">
       <div class="inside middle-col">
         <h1 class="col">PROJECTS</h1>
-        <div class="boxesContainer">
-          <div class="projBox" id="proj1">
-            <h3>Coastar</h3>
+        <div class="proj-card-container">
+          <div class="proj-card" id="proj1">
+            <h3 class="proj-titles">Coastar</h3>
             <a target="_blank" href="https://github.com/HACC2021/Big-Brain-Coders" class="icon"><i
                 class="fa-brands fa-lg fa-github"></i></a>
             <br>
@@ -130,7 +138,7 @@
               </li>
             </ul>
           </div>
-          <div class="projBox" id="proj2">
+          <div class="proj-card" id="proj2">
             <h3>Shocking Developments</h3>
             <a target="_blank" href="https://shocking-development.github.io/" class="icon"><i
                 class="fa-brands fa-lg fa-github"></i></a>
@@ -148,26 +156,23 @@
                 greenhouse gas emissions
               </li>
             </ul>
-
-
-
           </div>
-          <div class="projBox" id="proj3">
+          <div class="proj-card" id="proj3">
             <h3>Manoalist</h3>
             <a target="_blank" href="https://manoalist.github.io/" class="icon"><i
                 class="fa-brands fa-lg fa-github"></i></a>
             <ul>
               <li>
-                Website built using JavaScript, Meteor, and Semantic UI React to provide
+                Website built using JavaScript, Meteor, and Semantic UI React to provide UH students a simple platform
+                to buy/sell goods locally
               </li>
               <li>
-                UH students a simple platform to buy/sell goods locally
+                Implemented the functionality to favorite items and display likes on user profile
               </li>
               <li>
                 Focused on front-end design and assisted with back-end API
               </li>
             </ul>
-
           </div>
         </div>
       </div>
@@ -179,7 +184,6 @@
       <div class="inside middle-col">
         <h1 class="col">Contact Me!</h1>
         <div class="contactCards">
-
           <p>
             Add me on <a href="https://www.linkedin.com/in/kyraikeda/">LinkedIn</a>!
             <br>Or shoot me an email at kyraikeda@gmail.com :)
@@ -187,7 +191,6 @@
           <!-- <img src="images/pfp.jpg" width="30%" /> -->
         </div>
       </div>
-
     </div>
 
     <!-- FOOTER -->

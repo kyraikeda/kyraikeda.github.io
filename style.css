@@ -36,7 +36,14 @@ h1, h2, h3, h5, h6 {
     background-color: #B2A4FF;
     border: 1px solid #B2A4FF;
     border-radius: 0.75rem;
+    transition: transform 0.75s;
+    will-change: transform;
 }
+
+#toTopButton:hover, #toTopButton:focus {
+    transform: translateY(-10px);
+}
+
 
 /* TOP NAVBAR STYLING */
 #navbar ul {
@@ -55,12 +62,12 @@ li a {
     text-decoration: none;
 }
 
-/* FORMATTING MAIN SECTIONS */
+/* !!!! FORMATTING MAIN SECTIONS !!!! */
 .section {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    min-height: 100vh;
+    min-height: 90vh;
 }
 
 .inside {
@@ -100,47 +107,7 @@ li a {
 /* EXPERIENCE SECTION */
 /* TODO */
 /* EXPERIENCE TAB VIEW  */
-.tabMenu {
-    display: inline-flex;
-    /* flex-direction: row; */
-    /* width: 50rem; */
-    height: 70%;
-}
-
-.tabs {
-    border: 1px solid #ccc;
-    background-color: #f1f1f1;
-
-}
-
-.tabs button {
-    display: flex;
-    flex-direction: column;
-    outline: none;
-    /* border: none; */
-    width: 100%;
-    cursor: pointer;
-}
-
-/* Change background color of buttons on hover */
-.tabs button:hover {
-    background-color: #ddd;
-}
-
-/* Create an active/current "tab button" class */
-.tabs button.active {
-    background-color: #ccc;
-}
-
-.tabContent {
-    width: 100%;
-    /* display: flex; */
-    border: 1px solid #ccc;
-}
-
-
-/* PROJECT SECTION */
-.boxesContainer {
+.card-container {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -149,10 +116,41 @@ li a {
     flex-wrap: wrap;
 }
 
-.projBox {
+
+.exp-card {
+    padding: 1em 2em;
     background-color: hsla(216.92, 90.7%, 14%, 0.7);
     flex-grow: 1;
-    border-radius: 10px;
+    border-radius: 40px;
+}
+
+.exp-titles, .proj-titles {
+    color: white;
+}
+
+
+/* IDK DELETE THIS ?? */
+/* Create an active/current "tab button" class */
+.tabs button.active {
+    background-color: #ccc;
+}
+
+/* PROJECT SECTION */
+.proj-card-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.proj-card {
+    background-color: hsla(216.92, 90.7%, 14%, 0.7);
+    flex-grow: 1;
+    border-radius: 40px;
+    padding: 1em 2em;
+
 }
 
 /* CONTACT SECTION ????? */
