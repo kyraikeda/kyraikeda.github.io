@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
 
 body {
+    margin: 0;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: large;
@@ -12,9 +13,17 @@ html {
     scroll-behavior: smooth;
 }
 
-h1, h2, h3, h5, h6 {
+h1,
+h2,
+h3,
+h5,
+h6 {
     margin-bottom: 1rem;
     margin-top: 1rem;
+}
+
+li {
+    margin: 1em 0;
 }
 
 /* MAKING h1 FONT SIZE LARGER */
@@ -24,7 +33,7 @@ h1, h2, h3, h5, h6 {
 }
 
 /* "TO TOP" BUTTON STYLING */
-#toTopButton {
+#to-top-button {
     cursor: pointer;
     position: fixed;
     bottom: 1rem;
@@ -36,12 +45,24 @@ h1, h2, h3, h5, h6 {
     background-color: #B2A4FF;
     border: 1px solid #B2A4FF;
     border-radius: 0.75rem;
-    transition: transform 0.75s;
+    opacity: 0;
+
     will-change: transform;
+    /* idk what this does tbh */
+    transition: transform 0.85s ease-out, opacity 0.75s;
 }
 
-#toTopButton:hover, #toTopButton:focus {
+#to-top-button:hover {
     transform: translateY(-10px);
+    outline: 3px solid white;
+}
+
+#to-top-button[data-reveal] {
+    opacity: 1;
+}
+
+#to-top-button[data-hide] {
+    opacity: 0;
 }
 
 
@@ -51,7 +72,7 @@ h1, h2, h3, h5, h6 {
     justify-content: end;
 }
 
-#navbar ul > li {
+#navbar ul>li {
     list-style: none;
 }
 
@@ -76,11 +97,13 @@ li a {
 
 .middle-col {
     flex: 0 1 100%;
+    margin: 0 auto;
     /* max-width: 50%; */
 }
 
 .col {
     color: #B2A4FF;
+    padding-bottom: 1.5rem;
 }
 
 .iconsContainer {
@@ -89,7 +112,12 @@ li a {
 }
 
 .icon {
-    text-decoration: none;
+    /* text-decoration: none; */
+    color: #A5D7E8;
+    transition: color 0.4s;
+}
+
+.icon:hover {
     color: white;
 }
 
@@ -99,14 +127,29 @@ li a {
     flex-direction: row;
 }
 
-.aboutCol {
+.about-col {
     display: flex;
     flex-direction: row;
 }
 
+.about-col div {
+    display: flex;
+    justify-content: center;
+    flex: 0 1 100%;
+
+}
+
+.about-col img {
+    border-radius: 50%;
+    /* max-height: 100%; */
+    max-width: 70%;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+.profile-pic {}
+
 /* EXPERIENCE SECTION */
-/* TODO */
-/* EXPERIENCE TAB VIEW  */
 .card-container {
     display: flex;
     flex-direction: row;
@@ -124,34 +167,58 @@ li a {
     border-radius: 40px;
 }
 
-.exp-titles, .proj-titles {
+.exp-titles,
+.proj-titles {
     color: white;
 }
 
 
-/* IDK DELETE THIS ?? */
-/* Create an active/current "tab button" class */
-.tabs button.active {
-    background-color: #ccc;
-}
 
 /* PROJECT SECTION */
+.slider-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(100%);
+    color: #B2A4FF;
+    transition: color 0.2s;
+    background-color: transparent;
+    border: none;
+    z-index: 1;
+    font-size: 2rem;
+}
+
+.slider-arrow.prev {
+    left: -3rem;
+}
+
+.slider-arrow.next {
+    right: -3rem;
+}
+
+.slider-arrow:hover {
+    cursor: pointer;
+    color: white;
+}
+
 .proj-card-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 40px;
-    flex-wrap: wrap;
+    display: block;
+    position: relative;
 }
 
 .proj-card {
+    position: absolute;
+    display: inline;
     background-color: hsla(216.92, 90.7%, 14%, 0.7);
-    flex-grow: 1;
     border-radius: 40px;
     padding: 1em 2em;
-
+    opacity: 0;
+    transition: opacity 0.75s;
 }
+
+.proj-card[data-active] {
+    opacity: 1;
+}
+
 
 /* CONTACT SECTION ????? */
 .contactCards {

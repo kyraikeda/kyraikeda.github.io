@@ -10,7 +10,7 @@
   <link rel="icon" href="images/icons8-female-user-16.png" type="image/x-icon">
   <!-- IMPORT SCRIPTS -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-  <script type="text/javascript" src="index.js"></script>
+  <script type="text/javascript" src="index.js" defer></script>
   <script src="https://kit.fontawesome.com/32f8e09a3e.js" crossorigin="anonymous"></script>
 </head>
 
@@ -28,7 +28,7 @@
     </div>
 
     <!-- BUTTON TO SCROLL BACK TO TOP -->
-    <button id="toTopButton" onclick="backToTop()" hidden>&#708;</button>
+    <button id="to-top-button" onclick="backToTop()">&#708;</button>
 
     <!-- <a href="./portfolio.html">To Portfolio</a>   -->
     <!-- delete later ^^^ -->
@@ -57,15 +57,19 @@
       <div class="inside middle-col">
         <div class="">
           <h1 class="col">ABOUT ME</h1>
-          <div class="aboutCol">
-            <p>
-              I'm Kyra! (kai-rah) <br>I was born and raised in Hawaiʻi.<br>
-              In my free time, I love to surf and create content for various cosmetic
-              brands!<br><br>
+          <div class="about-col">
+            <div>
+              <p>
+                I'm Kyra! (kai-rah) <br>I was born and raised in Hawaiʻi.<br>
+                In my free time, I love to surf and create content for various cosmetic
+                brands!<br><br>
 
-              To all of my projects and endeavors, I bring the best of both worlds: logic and art!
-            </p>
-            <img src="images/pfp.jpg" width="30%" />
+                To all of my endeavors, I bring the best of both worlds: logic and art!
+              </p>
+            </div>
+            <div>
+              <img class="profile-pic" src="images/pfp.jpg" />
+            </div>
           </div>
         </div>
       </div>
@@ -119,11 +123,12 @@
       <div class="inside middle-col">
         <h1 class="col">PROJECTS</h1>
         <div class="proj-card-container">
-          <div class="proj-card" id="proj1">
+          <button class="slider-arrow prev" data-previous>&#10094;</button>
+          <button class="slider-arrow next" data-next>&#10095;</button>
+          <div class="proj-card" id="proj1" data-active>
             <h3 class="proj-titles">Coastar</h3>
             <a target="_blank" href="https://github.com/HACC2021/Big-Brain-Coders" class="icon"><i
                 class="fa-brands fa-lg fa-github"></i></a>
-            <br>
             <ul>
               <li>
                 A mobile and web application that streamlines the process of reporting
@@ -139,7 +144,7 @@
             </ul>
           </div>
           <div class="proj-card" id="proj2">
-            <h3>Shocking Developments</h3>
+            <h3 class="proj-titles">Shocking Developments</h3>
             <a target="_blank" href="https://shocking-development.github.io/" class="icon"><i
                 class="fa-brands fa-lg fa-github"></i></a>
             <ul>
@@ -158,7 +163,7 @@
             </ul>
           </div>
           <div class="proj-card" id="proj3">
-            <h3>Manoalist</h3>
+            <h3 class="proj-titles">Manoalist</h3>
             <a target="_blank" href="https://manoalist.github.io/" class="icon"><i
                 class="fa-brands fa-lg fa-github"></i></a>
             <ul>
@@ -175,6 +180,7 @@
             </ul>
           </div>
         </div>
+
       </div>
 
     </div>
