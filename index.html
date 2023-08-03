@@ -19,7 +19,7 @@
     <!-- TODO: STICKY NAVBAR>>!! -->
     <!-- NAVBAR -->
     <div id="navbar">
-      <ul>
+      <ul class="nav-tabs">
         <li><a href="#about" onClick="scrollToView('about')">ABOUT</a></li>
         <li><a href="#exp" onClick="scrollToView('exp')">EXPERIENCE</a></li>
         <li><a href="#projects" onClick="scrollToView('projects')">PROJECTS</a></li>
@@ -80,12 +80,11 @@
     <div id="exp" class="section">
       <div class="inside middle-col">
         <h1 class="col">EXPERIENCE</h1>
-
         <div class="card-container">
           <div class="exp-card">
             <h6>June 2021 - Aug 2021</h6>
             <h3 class="exp-titles">Akamai Workforce Initiative Summer Intern</h3>
-            <h5>Subaru Telescope</h5>
+            <h5 class="exp-location">Subaru Telescope</h5>
             <ul>
               <li>Implemented Ginga, a toolkit of GUI widgets for building image viewers,
                 to operate on the web using Python, JavaScript, HTML, and CSS</li>
@@ -96,7 +95,7 @@
           <div class="exp-card">
             <h6>Fall 2021, Fall - Spring 2020</h6>
             <h3 class="exp-titles">President, Vice President</h3>
-            <h5>SWITCH-UHM</h5>
+            <h5 class="exp-location">SWITCH-UHM</h5>
             <ul>
               <li>Coordinated events with various speakers and between academic clubs
               </li>
@@ -106,7 +105,7 @@
           <div class="exp-card">
             <h6>Aug 2020 – Dec 2020</h6>
             <h3 class="exp-titles">ICS Assistant TA</h3>
-            <h5>University of Hawaii at Manoa</h5>
+            <h5 class="exp-location">University of Hawaii at Manoa</h5>
             <ul>
               <li>Assisted ICS class laboratories three times per week</li>
               <li>Created a lesson plan and instructed a week of laboratories</li>
@@ -142,6 +141,12 @@
                 Implemented the functionality to export all data to a CSV file using HTML
               </li>
             </ul>
+            <div class="img-wrapper">
+              <img class="proj-img" src="images/projects/coastar-landing.png" />
+              <img class="proj-img" src="images/projects/coastar-viewReport.png" />
+            </div>
+
+
           </div>
           <div class="proj-card" id="proj2">
             <h3 class="proj-titles">Shocking Developments</h3>
@@ -161,7 +166,15 @@
                 greenhouse gas emissions
               </li>
             </ul>
+            <div class="img-wrapper">
+              <img class="proj-img" src="images/projects/shockingemissions.gif" />
+
+            </div>
+
           </div>
+
+
+
           <div class="proj-card" id="proj3">
             <h3 class="proj-titles">Manoalist</h3>
             <a target="_blank" href="https://manoalist.github.io/" class="icon"><i
@@ -178,12 +191,16 @@
                 Focused on front-end design and assisted with back-end API
               </li>
             </ul>
+            <div class="img-wrapper">
+              <img class="proj-img" src="images/projects/manoalist-landing.png" />
+              <img class="proj-img" src="images/projects/manoalist-likes.png" />
+            </div>
           </div>
         </div>
 
       </div>
-
     </div>
+
 
     <!-- CONTACT-->
     <div id="contact" class="section">

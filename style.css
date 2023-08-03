@@ -49,7 +49,7 @@ li {
 
     will-change: transform;
     /* idk what this does tbh */
-    transition: transform 0.85s ease-out, opacity 0.75s;
+    transition: transform 0.85s ease-out, opacity 0.75s, outline 0.1s ease-out;
 }
 
 #to-top-button:hover {
@@ -70,10 +70,15 @@ li {
 #navbar ul {
     display: flex;
     justify-content: end;
+    padding: 0 1.5rem;
 }
 
-#navbar ul>li {
-    list-style: none;
+#navbar ul li {
+    list-style: none;    
+}
+
+.nav-tabs li a:hover {
+    color: white;
 }
 
 li a {
@@ -81,6 +86,7 @@ li a {
     font-size: 1.3rem;
     padding: 1rem 1rem;
     text-decoration: none;
+    transition: color 0.5s;
 }
 
 /* !!!! FORMATTING MAIN SECTIONS !!!! */
@@ -112,7 +118,7 @@ li a {
 }
 
 .icon {
-    /* text-decoration: none; */
+    text-decoration: none;
     color: #A5D7E8;
     transition: color 0.4s;
 }
@@ -159,12 +165,16 @@ li a {
     flex-wrap: wrap;
 }
 
-
 .exp-card {
     padding: 1em 2em;
     background-color: hsla(216.92, 90.7%, 14%, 0.7);
     flex-grow: 1;
     border-radius: 40px;
+    transition: outline 0.2s ease;
+}
+
+.exp-card:hover {
+    outline: 6px solid hsla(195.22, 59.29%, 86%, 0.5);
 }
 
 .exp-titles,
@@ -172,7 +182,9 @@ li a {
     color: white;
 }
 
-
+.exp-location {
+    margin-top: -0.75rem;
+}
 
 /* PROJECT SECTION */
 .slider-arrow {
@@ -183,7 +195,7 @@ li a {
     transition: color 0.2s;
     background-color: transparent;
     border: none;
-    z-index: 1;
+    z-index: 2;
     font-size: 2rem;
 }
 
@@ -206,19 +218,38 @@ li a {
 }
 
 .proj-card {
+    z-index: 1;
     position: absolute;
     display: inline;
     background-color: hsla(216.92, 90.7%, 14%, 0.7);
     border-radius: 40px;
     padding: 1em 2em;
     opacity: 0;
-    transition: opacity 0.75s;
+    transform: scale(0);
+    /* transition: opacity 0.75s; */
+    transition: transform 1s ease-in-out, opacity 1s;
+
 }
 
 .proj-card[data-active] {
     opacity: 1;
+    transform: scale(1);
+
 }
 
+.img-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    column-gap: 2rem;
+    padding: 2rem 0rem;
+}
+
+.proj-img {
+    max-width: 47%;
+    border-radius: 5px;
+}
 
 /* CONTACT SECTION ????? */
 .contactCards {
